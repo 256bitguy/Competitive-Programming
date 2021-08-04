@@ -22,6 +22,7 @@ for(int i=0;i<n-1;i++)
              }
  }
 }
+        //output is the double of combination obtained
 cout<<2*counter;
 return 0;
 }
